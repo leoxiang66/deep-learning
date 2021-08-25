@@ -1,0 +1,1 @@
+# Do not modify the directory/file names since they are binded to the links used in blogs
