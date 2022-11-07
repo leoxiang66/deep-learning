@@ -1,2 +1,2 @@
 # deep-learning
-Notes for deep learning course
+Deep learning resources and packages.
